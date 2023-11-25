@@ -11,4 +11,4 @@
 #### pip install numpy
 #### pip install tensorflow_addons
 #### pip install opencv-python
-### after installing packages run the pytho script it will initilize the api
+### after installing packages run the python script API3.py it will initilize the api
